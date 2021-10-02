@@ -7,7 +7,7 @@ redirect_from:
   - /articles/about-pull-requests
   - /github/collaborating-with-issues-and-pull-requests/about-pull-requests
 versions:
-  fpt: '*'
+  fpt: '*' modifié 
   ghes: '*'
   ghae: '*'
 topics:
